@@ -11,9 +11,16 @@ body {
 #header {
   width: 100%;
   height: 100vh;
-  background-image: url(images/photo2.png);
   background-size: cover;
   background-position: center;
+}
+.bg {
+  position: relative;
+  float: right;
+  max-width: 90%;
+  height: 110vh;
+  margin-top: -9%;
+  align-content: right;
 }
 .container {
   padding: 10px 10%;
